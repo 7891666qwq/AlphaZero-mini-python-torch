@@ -285,7 +285,7 @@ python -u gtp_engine.py --model checkpoints/latest.pth --simulations 50
 
 ## 协议
 
-MIT License
+not found 404
 
 ---
 
